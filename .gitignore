@@ -1,0 +1,10 @@
+venv/
+.venv/
+data/charity-commission-register/
+data/raw_charities_clean.csv
+data/raw_classification_clean.csv
+data/raw_area_operation_clean.csv
+data/raw_financials_clean.csv
+sources/
+__pycache__/
+.ipynb_checkpoints/
